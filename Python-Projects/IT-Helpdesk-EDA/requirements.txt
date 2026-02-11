@@ -1,0 +1,7 @@
+Dependencies for Python:
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+jupyter
