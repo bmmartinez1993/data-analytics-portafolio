@@ -1,4 +1,3 @@
-Dependencies for Python:
 pandas
 numpy
 matplotlib
