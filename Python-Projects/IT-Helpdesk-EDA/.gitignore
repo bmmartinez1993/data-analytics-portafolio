@@ -1,0 +1,12 @@
+# Ignore Data Files (too big or private)
+*.xlsx
+*.csv
+data/
+
+# Ignore Jupyter Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Ignore System Files
+__pycache__/
+*.DS_Store
